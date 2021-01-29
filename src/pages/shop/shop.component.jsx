@@ -1,8 +1,6 @@
 import React from 'react';
 import SHOP_DATA from './shop.data';
 import CollectionPreview from '../../Components/collection-preview/collection-preview.component';
-
-
 import './shop.component.styles.scss';
 
 
